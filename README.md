@@ -11,11 +11,11 @@ Hi, I'm Antony Jeyakumar —— **Data Analyst**  turning numbers into results. 
 📧 Pop me an email at jeyakumarantony7@gmail.com and I'll try to respond as soon as I can.\
 
 ## &#x1f4c8; Tejas's GitHub Stats
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasnp163&show_icons=true&hide=PHP,tex&theme=radical&line_height=27" />
+<a href="https://github.com/AntoJKumar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoJKumar&show_icons=true&hide=PHP,tex&theme=radical&line_height=27" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=tejasnp163&show_icons=true&theme=radical&layout=compact&line_height=27&count_private=true" alt="Tejas's GitHub Stats" />
+<a href="https://github.com/AntoJKumar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=AntoJKumar&show_icons=true&theme=radical&layout=compact&line_height=27&count_private=true" alt="Tejas's GitHub Stats" />
 </a>
 
 ## I work on .. 💻
