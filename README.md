@@ -10,7 +10,7 @@ Hi, I'm Antony Jeyakumar —— **Data Analyst**  turning numbers into results. 
 💬 Currently looking for a right opportunity in the field of Data Science & Finance. Feel free to reach out to me for working together or just for some interesting discussions.\
 📧 Pop me an email at jeyakumarantony7@gmail.com and I'll try to respond as soon as I can.\
 
-## &#x1f4c8; Tejas's GitHub Stats
+## &#x1f4c8; Antony JKumar GitHub Stats
 <a href="https://github.com/AntoJKumar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoJKumar&show_icons=true&hide=PHP,tex&theme=radical&line_height=27" />
 </a>
