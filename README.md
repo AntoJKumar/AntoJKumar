@@ -2,7 +2,7 @@
 
 ## About Me 📌
 
-Hi, I'm Antony Jeyakumar —— **Data Analyst**  turning numbers into results. Strong interest in **Financial Modeling**, **Data Analysis** & **Blockchain**💖\
+Hi, I'm Antony Jeyakumar —— **Data Enthusiast**  turning numbers into results. Strong interest in **Financial Modeling**, **Data Analysis** & **Blockchain**💖\
 💞 Like to do data analysis, financial modelling and visualization.\
 🎓 Recently certified in FinTech from University of Toronto, Canada with A+.\
 🧰 Masters in Industrial Engineering.\
