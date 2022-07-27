@@ -8,7 +8,7 @@ Hi, I'm Antony Jeyakumar —— **Data Enthusiast**  turning numbers into result
 🧰 Masters in Industrial Engineering.\
 ✨ I love to read books 📚, playing football⚽ and Gym🏋️‍♂️.\
 💬 Feel free to reach out to me for working together or just for some interesting discussions.\
-📧 Pop me an email at antojkumar07@gmail.com and I'll try to respond as soon as I can.\
+📧 Pop me an email at jeyakumarantony7@gmail.com and I'll try to respond as soon as I can.\
 
 ## &#x1f4c8; Antony JKumar GitHub Stats
 <a href="https://github.com/AntoJKumar">
